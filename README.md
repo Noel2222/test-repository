@@ -10,4 +10,5 @@ Tässä on Noelin projetki
   <li>R</li>
   <li>O</li>
 </ol>
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 <h2>Sulaiman on hirveä koodari</h2>
