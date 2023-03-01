@@ -24,3 +24,4 @@ Tässä on Noelin projetki
 * Tee kotitöitä.
 
 #### Kissasta Kuva
+![Kissapöntöllä](https://user-images.githubusercontent.com/113175119/222071970-84e08710-e8e0-4891-8866-5db29fbb31a6.jpg)
