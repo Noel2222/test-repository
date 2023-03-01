@@ -1,6 +1,6 @@
 # test-repository
 Tässä on Noelin projetki
-##### Sulaiman ##### On ###### Koodari.
+##### Sulaiman. ##### On. ###### Koodari.
 [Youtubeen vaan jos tulee tylsää](https://www.youtube.com/)
 
 #### Testi.
