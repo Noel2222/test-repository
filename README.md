@@ -18,6 +18,8 @@ Tässä on Noelin projetki
 4. Lammikko.
 5. Koomikko.
 
+Kirjoita komentokehotteeseen `nano`.
+
 #### Työtehtävät ***Tiistaille***. 
 * Tee koulutehtävät.
 * Mene kotiin.
