@@ -18,4 +18,7 @@ Tässä on Noelin projetki
 4. Lammikko.
 5. Koomikko.
 
-#### Työtehtävät ***Tiistaille***.
+#### Työtehtävät ***Tiistaille***. 
+* Tee koulutehtävät.
+* Mene kotiin.
+* Tee kotitöitä.
